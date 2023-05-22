@@ -1,4 +1,4 @@
-### s.haiv.dev roadmap:
+### s.haiv.dev roadmap(not ordered):
 - [ ] new domain.
 - [ ] media details, including streams list.
 - [ ] vim keybindings.
