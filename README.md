@@ -4,4 +4,5 @@
 - [ ] vim keybindings.
 - [ ] in browser player (you'll need a stream server).
 - [ ] let you add your addons.
+- [ ] mobile sidebar.
 
