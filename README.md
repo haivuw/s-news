@@ -5,4 +5,5 @@
 - [ ] in browser player (you'll need a stream server).
 - [ ] let you add your addons.
 - [ ] mobile sidebar.
+- [ ] rewrite in rust for blazingly fast speed.
 
